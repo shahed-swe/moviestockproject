@@ -1,0 +1,27 @@
+button {
+    margin-top: 20px;
+}
+
+.movies .movie {
+    margin-top: 10px;
+}
+
+.movies .card {
+    border: none;
+}
+
+.moviecomments .movie {
+    margin-top: 40px;
+    border: none;
+}
+
+.maincomment .comment-style .comments {
+    margin-top: 10px;
+    border-bottom: 1px solid gray;
+    font-weight: 400;
+    font-size: larger;
+}
+
+.comment {
+    margin-top: 10px;
+}
